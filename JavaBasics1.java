@@ -12,6 +12,14 @@ public class JavaBasics1 {
         System.out.println("***");
         System.out.println("**");
         System.out.println("*");
+
+        //variables in java
+        int a =2;
+        int v =6;
+
+        a = v ;
+        System.out.println(a);
+        System.out.println(v);
     }
 }
 
